@@ -4,5 +4,4 @@ Privacy policy, terms and texting opt-in evidence for Friday, a business assista
 
 - [Privacy Policy](privacy.md)
 - [Terms and Conditions](terms.md)
-- [SMS sign-up (opt-in flow)](sms-signup.md)
-- [Screenshot of the opt-in flow](sms-signup-screenshot.png)
+- [SMS consent evidence](https://jw0808-blip.github.io/friday-policy/sms-consent-evidence.html)
