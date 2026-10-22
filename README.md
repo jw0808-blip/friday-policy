@@ -4,4 +4,5 @@ Privacy policy and terms for Friday, a private single-user personal assistant te
 
 - [Privacy Policy](privacy.md)
 - [Terms and Conditions](terms.md)
-- [SMS consent step](consent.md)
+- [SMS sign-up (opt-in flow)](sms-signup.md)
+- [Screenshot of the opt-in flow](sms-signup-screenshot.png)
