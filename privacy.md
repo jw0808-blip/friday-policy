@@ -1,14 +1,14 @@
 # Friday Texting Service: Privacy Policy
 
-Effective October 20, 2026.
+Effective October 22, 2026.
 
-Friday is a private, personal assistant texting service operated by Jerad Watson, sole proprietor. It sends text messages to one person only: the account owner, Jerad Watson. It is not offered to the public and has no other subscribers.
+Friday is a business assistant software application operated by Jerad Watson, sole proprietor. The application sends automated, software-generated text alerts to account holders of the Friday application who enable texting in the application. Access to the application is limited to authorized account holders; there is no public sign-up.
 
 **Who sends messages.** Messages are sent by Jerad Watson, sole proprietor, through a messaging provider.
 
-**Who receives messages.** Only the account owner receives messages. The owner opts in himself by entering his own mobile number in his private, login-protected dashboard and confirming it. No one else can be added.
+**Who receives messages.** Only account holders who opt in receive messages. An account holder opts in on the Texting screen inside the login-protected Friday application by entering a mobile number, ticking an optional consent box, and confirming a one-time code sent to that number.
 
-**What information is collected.** The owner's mobile number and the content of messages sent to it, including any replies such as STOP or HELP.
+**What information is collected.** The account holder's mobile number and the content of messages sent to it, including any replies such as STOP or HELP.
 
 **How information is used.** Only to deliver the messages described in the Terms and to honor opt-out and help requests.
 
@@ -16,8 +16,8 @@ Friday is a private, personal assistant texting service operated by Jerad Watson
 
 **Where information is kept.** Message data is stored on a private server owned and controlled by Jerad Watson, protected by a private network and login. It is retained only as long as the service is in use and is deleted when the service is closed.
 
-**Your choices.** Reply STOP at any time to cancel. Reply HELP for help. The owner can also remove his number in the dashboard.
+**Your choices.** Reply STOP at any time to cancel. Reply HELP for help. The account holder can also turn texts off on the Texting screen in the application.
 
-**Contact.** Reply HELP to any message you have received from this service, or contact the operator through the private dashboard's support link. Operator: Jerad Watson, sole proprietor, Texas, United States.
+**Contact.** Reply HELP to any message you have received from this service, or contact the operator through the Friday application. Operator: Jerad Watson, sole proprietor, Texas, United States.
 
 See also the [Terms and Conditions](terms.md).
